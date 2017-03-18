@@ -1,6 +1,5 @@
 import paho.mqtt.client as mqtt
 from blinkt import set_pixel, set_brightness, show, clear, set_all
-import time
 
 set_brightness(0.1)
 
